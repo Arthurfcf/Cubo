@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Controllers\AlgarismoRomanoController.cs" />
+    <Compile Remove="Controllers\AlgarismoController.cs" />
+    <Compile Remove="Controllers\ParticipationController - Cópia.cs" />
   </ItemGroup>
 
   <ItemGroup>
